@@ -6,6 +6,7 @@ To get this app up and running Docker and python must be installed on your machi
 
 ## How To Run
 - 'git clone' this repo in project directory of choice.
+- 'cd' into this cloned repo.
 - Run 'make build' to build the Docker image.
 - Run 'make run' to run the Docker container.
 - Navigate to http://localhost:8501/.
